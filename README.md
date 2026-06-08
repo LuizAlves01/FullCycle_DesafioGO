@@ -8,9 +8,6 @@ Neste desafio, você deve criar e publicar uma imagem Docker que execute uma apl
 Ao executarmos o container baseado na sua imagem publicada no Docker Hub, o resultado deve ser exatamente a impressão da mensagem abaixo no terminal:
 
 * Full Cycle Rocks!!
- 
-
-## ## ##    ## ## ## ##     ## ## ##    ## ## ## ##
 
 
 ## Executando a Aplicação:
